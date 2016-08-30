@@ -4,11 +4,11 @@
 
 # Site
 title: Scintillium
-subtitle:
+subtitle: a single spark can start a prairie fire
 description:
-author:
-language: chinese
-timezone: Beiing
+author: Ewan LI
+language: en
+timezone: Beijing
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
@@ -40,7 +40,7 @@ future: true
 highlight:
   enable: true
   line_number: true
-  auto_detect: false
+  auto_detect: true
   tab_replace:
 
 # Category & Tag
